@@ -1,0 +1,3473 @@
+﻿<header>
+    <h1>不做攻擊手？黃昭順放鳥黨團記者會</h1>
+</header>
+<ul id="post-list" class="post-list"><li class="post" id="post-2390786389"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">Kmt</span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390786389" data-role="relative-time" class="time-ago" title="2015年12月3日星期四晚上11點17">20小時前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>這個是朱為救王解散開除王金平黨籍原考績會，而成立朱御用考績會主委</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-0" data-action="upvote" title="給推">
+
+<span class="updatable count" data-role="likes">0</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390786389">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390786389">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390572233"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/paulochi/" class="user" data-action="profile" data-username="paulochi">
+<img data-role="user-avatar" data-user="161755115" src="//a.disquscdn.com/1448940533/images/noavatar92.png" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/paulochi/" data-action="profile" data-username="paulochi" data-role="username">Paulo Chi</a></span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390572233" data-role="relative-time" class="time-ago" title="2015年12月3日星期四晚上9點04">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>高層說了，【國民黨不要戰鬥力】！所以  -----</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-0" data-action="upvote" title="給推">
+
+<span class="updatable count" data-role="likes">0</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390572233">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390572233">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390470773"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">这就是民进党</span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390470773" data-role="relative-time" class="time-ago" title="2015年12月3日星期四晚上7點29">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>民进党的本质</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"><li><div class="media-container media-mode-deferred media-show-buttons media-activated">
+<a class="media-button media-button-expand publisher-color publisher-border-color" href="//a.disquscdn.com/uploads/mediaembed/images/2881/7361/original.jpg" rel="nofollow" target="_blank" data-action="expand" title="">
+<i class="icon-images publisher-background-color"></i>
+顯示
+</a>
+<a class="media-button media-button-contract publisher-color publisher-border-color" href="#" target="_blank" data-action="contract">
+<i class="icon-cancel publisher-background-color"></i> 隱藏
+</a>
+<div class="media-content-loader" data-role="content-loader"></div>
+<div data-role="content-placeholder" class="media-content-placeholder" style="height: auto;"><a href="//a.disquscdn.com/uploads/mediaembed/images/2881/7361/original.jpg" target="_blank" rel="nofollow">
+<img src="//a.disquscdn.com/uploads/mediaembed/images/2881/7361/original.jpg?w=600&amp;h" alt="縮圖">
+</a></div>
+</div></li><li><div class="media-container media-mode-deferred media-show-buttons media-activated">
+<a class="media-button media-button-expand publisher-color publisher-border-color" href="//a.disquscdn.com/uploads/mediaembed/images/2881/7362/original.jpg" rel="nofollow" target="_blank" data-action="expand" title="">
+<i class="icon-images publisher-background-color"></i>
+顯示
+</a>
+<a class="media-button media-button-contract publisher-color publisher-border-color" href="#" target="_blank" data-action="contract">
+<i class="icon-cancel publisher-background-color"></i> 隱藏
+</a>
+<div class="media-content-loader" data-role="content-loader"></div>
+<div data-role="content-placeholder" class="media-content-placeholder" style="height: auto;"><a href="//a.disquscdn.com/uploads/mediaembed/images/2881/7362/original.jpg" target="_blank" rel="nofollow">
+<img src="//a.disquscdn.com/uploads/mediaembed/images/2881/7362/original.jpg?w=600&amp;h" alt="縮圖">
+</a></div>
+</div></li></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-0" data-action="upvote" title="給推">
+
+<span class="updatable count" data-role="likes">0</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390470773">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390470773">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390467404"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">自請辭</span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390467404" data-role="relative-time" class="time-ago" title="2015年12月3日星期四晚上7點26">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>黃昭順不願為黨打仗，只爰受黨恩惠，<br>和黑金王抱在一起，一生烙下恥辱烙印。<br>如果邊有羞恥心，自己了斷吧！</p><p></p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-1" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">1</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390467404">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390467404">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"><li class="post" id="post-2390928572"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/paulochi/" class="user" data-action="profile" data-username="paulochi">
+<img data-role="user-avatar" data-user="161755115" src="//a.disquscdn.com/1448940533/images/noavatar92.png" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/paulochi/" data-action="profile" data-username="paulochi" data-role="username">Paulo Chi</a></span>
+
+<span><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390467404" class="parent-link" data-role="parent-link"><i aria-hidden="true" class="icon-forward" title="in reply to"></i> 自請辭</a></span>
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390928572" data-role="relative-time" class="time-ago" title="2015年12月4日星期五早上12點38">19小時前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>都不參選立委了，還接受不分區，在王金平的羽翼下去佔位子，確是無【      】！</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-1" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">1</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390928572">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390928572">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li></ul>
+
+</li><li class="post" id="post-2390422340"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">flown</span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390422340" data-role="relative-time" class="time-ago" title="2015年12月3日星期四晚上6點36">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>因為選民服務做的不錯,黃昭順在高雄的風評不錯.黃昭順在國民黨內,也積極經營人脈.但是,黃昭順就看不出有什麼路用.她挺張顯耀的目的是什麼.<br>...<br>不知道國民黨到底在幹什麼,黨裡面一堆這類人物.</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-0" data-action="upvote" title="給推">
+
+<span class="updatable count" data-role="likes">0</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390422340">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390422340">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390391862"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">实在谏言</span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390391862" data-role="relative-time" class="time-ago" title="2015年12月3日星期四晚上6點07">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>国民党宣传不够，攻击力度不够，这种现象已存在好长时间了，这是不正常的，不能用的时候请人家不用时冷落人家，不能敷衍了事。一个政党无论何时都要有战斗精神，要有一个欣欣向荣的团队。</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-1" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">1</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390391862">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390391862">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390390004"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/liushuichang/" class="user" data-action="profile" data-username="liushuichang">
+<img data-role="user-avatar" data-user="132348277" src="//a.disquscdn.com/1448940533/images/noavatar92.png" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/liushuichang/" data-action="profile" data-username="liushuichang" data-role="username">張流水</a></span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390390004" data-role="relative-time" class="time-ago" title="2015年12月3日星期四晚上6點05">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>黃昭順的父親黃尊秋在1990年，經李登輝總統提名，擔任中華民國監察院院長，這是何等恩寵,如果推測無誤,黃昭順是台聯側翼應是無誤的.</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-0" data-action="upvote" title="給推">
+
+<span class="updatable count" data-role="likes">0</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390390004">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390390004">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390291389"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/disqus_JizhNZqo2c/" class="user" data-action="profile" data-username="disqus_JizhNZqo2c">
+<img data-role="user-avatar" data-user="73226186" src="//a.disquscdn.com/uploads/users/7322/6186/avatar92.jpg?1438262597" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/disqus_JizhNZqo2c/" data-action="profile" data-username="disqus_JizhNZqo2c" data-role="username">正言</a></span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390291389" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午4點02">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>馬英九最大的敵人，不是民進黨，民進黨一批人都是馬英九的手下敗將，馬英九最大的敵人是國民黨中的既得利益者，去年選舉國民黨大敗，王金平、朱立倫、與黃昭順聯合逼共，讓黃昭順老公升任海巡署署長，這批人才是國民黨最大的共犯結構。</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-7" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">7</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390291389">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390291389">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390288418"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">哼哼哼~</span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390288418" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午3點58">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>...勉强出不了真...身影如此多违。早就从你身边人洞悉㐅ˊ遗</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-1" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">1</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390288418">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390288418">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390243014"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/nickai/" class="user" data-action="profile" data-username="nickai">
+<img data-role="user-avatar" data-user="30046111" src="//a.disquscdn.com/uploads/users/3004/6111/avatar92.jpg?1371178935" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/nickai/" data-action="profile" data-username="nickai" data-role="username">Nick</a></span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390243014" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午3點00">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>國民黨盡養肥一羣吃裏扒外的人渣政客，敗家無可救藥了！</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-8" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">8</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390243014">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390243014">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390221227"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">皮厚黃昭順</span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390221227" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午2點33">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>黃昭順你的臉皮夠厚，還不自己請辭？</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-5" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">5</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390221227">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390221227">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390200927"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/tzongshyongwang/" class="user" data-action="profile" data-username="tzongshyongwang">
+<img data-role="user-avatar" data-user="54719806" src="//a.disquscdn.com/uploads/users/5471/9806/avatar92.jpg?1449122975" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/tzongshyongwang/" data-action="profile" data-username="tzongshyongwang" data-role="username">Tzong Shyong  Wang</a></span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390200927" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午2點09">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>國民黨內除了羅淑蕾與王金平是爭議人物第1.2名外，黃昭順也是，希望她能知進退!</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-9" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">9</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390200927">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390200927">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390144391"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">牆頭草</span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390144391" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午1點09">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>視時務者為俊傑，別得罪蔡總統。</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-5" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">5</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390144391">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390144391">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390130402"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">ooo</span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390130402" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午12點55">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>廢物一堆<br>KMT連仗都不會打</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-10" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">10</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390130402">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390130402">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"><li class="post" id="post-2390939096"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/paulochi/" class="user" data-action="profile" data-username="paulochi">
+<img data-role="user-avatar" data-user="161755115" src="//a.disquscdn.com/1448940533/images/noavatar92.png" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/paulochi/" data-action="profile" data-username="paulochi" data-role="username">Paulo Chi</a></span>
+
+<span><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390130402" class="parent-link" data-role="parent-link"><i aria-hidden="true" class="icon-forward" title="in reply to"></i> ooo</a></span>
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390939096" data-role="relative-time" class="time-ago" title="2015年12月4日星期五早上12點43">19小時前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>不是不想打，是沒膽打！</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-0" data-action="upvote" title="給推">
+
+<span class="updatable count" data-role="likes">0</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390939096">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390939096">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390204770"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/disqus_klkNXOcRiL/" class="user" data-action="profile" data-username="disqus_klkNXOcRiL">
+<img data-role="user-avatar" data-user="182071568" src="//a.disquscdn.com/1448940533/images/noavatar92.png" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/disqus_klkNXOcRiL/" data-action="profile" data-username="disqus_klkNXOcRiL" data-role="username">明月天心</a></span>
+
+<span><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390130402" class="parent-link" data-role="parent-link"><i aria-hidden="true" class="icon-forward" title="in reply to"></i> ooo</a></span>
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390204770" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午2點13">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>不是不會打，是不想打。</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-2" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">2</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390204770">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390204770">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li></ul>
+
+</li><li class="post" id="post-2390128010"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">kiabinD</span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390128010" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午12點52">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>朱立倫瞎了眼選出黃昭順、張麗善、吳志楊等不分區投機政客，註定國民黨大敗選。</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-8" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">8</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390128010">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390128010">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"><li class="post" id="post-2390283192"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">小P</span>
+
+<span><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390128010" class="parent-link" data-role="parent-link"><i aria-hidden="true" class="icon-forward" title="in reply to"></i> kiabinD</a></span>
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390283192" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午3點51">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>是你瞎了眼沒看清朱立倫⋯⋯</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-1" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">1</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390283192">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390283192">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li></ul>
+
+</li><li class="post" id="post-2390120708"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">綠色豬頭</span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390120708" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午12點44">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>黃昭順選市長時,推女兒賣肉,害的藍蛆吐了18斤,棄逃</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-0" data-action="upvote" title="給推">
+
+<span class="updatable count" data-role="likes">0</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390120708">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390120708">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390101240"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/disqus_DdRBpVIJJn/" class="user" data-action="profile" data-username="disqus_DdRBpVIJJn">
+<img data-role="user-avatar" data-user="178216952" src="//a.disquscdn.com/uploads/users/17821/6952/avatar92.jpg?1449117229" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/disqus_DdRBpVIJJn/" data-action="profile" data-username="disqus_DdRBpVIJJn" data-role="username">顏風</a></span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390101240" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午12點33">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>內賊通外鬼，不倒也難！</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-6" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">6</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390101240">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390101240">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390098222"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/disqus_DdRBpVIJJn/" class="user" data-action="profile" data-username="disqus_DdRBpVIJJn">
+<img data-role="user-avatar" data-user="178216952" src="//a.disquscdn.com/uploads/users/17821/6952/avatar92.jpg?1449117229" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/disqus_DdRBpVIJJn/" data-action="profile" data-username="disqus_DdRBpVIJJn" data-role="username">顏風</a></span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390098222" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午12點30">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>原來民進黨只要靠王派和抹黑就輕易打垮國民黨了。</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-5" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">5</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390098222">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390098222">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390089265"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">立可白</span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390089265" data-role="relative-time" class="time-ago" title="2015年12月3日星期四中午12點21">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>包庇軍宅炒手就是欺壓低級外省人，哈哈。</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"><li><div class="media-container media-mode-deferred media-show-buttons media-activated">
+<a class="media-button media-button-expand publisher-color publisher-border-color" href="//a.disquscdn.com/uploads/mediaembed/images/2880/7138/original.jpg" rel="nofollow" target="_blank" data-action="expand" title="">
+<i class="icon-images publisher-background-color"></i>
+顯示
+</a>
+<a class="media-button media-button-contract publisher-color publisher-border-color" href="#" target="_blank" data-action="contract">
+<i class="icon-cancel publisher-background-color"></i> 隱藏
+</a>
+<div class="media-content-loader" data-role="content-loader"></div>
+<div data-role="content-placeholder" class="media-content-placeholder" style="height: auto;"><a href="//a.disquscdn.com/uploads/mediaembed/images/2880/7138/original.jpg" target="_blank" rel="nofollow">
+<img src="//a.disquscdn.com/uploads/mediaembed/images/2880/7138/original.jpg?w=600&amp;h" alt="縮圖">
+</a></div>
+</div></li></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-0" data-action="upvote" title="給推">
+
+<span class="updatable count" data-role="likes">0</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-2" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390089265">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390089265">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"><li class="post" id="post-2390290223"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">.  </span>
+
+<span><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390089265" class="parent-link" data-role="parent-link"><i aria-hidden="true" class="icon-forward" title="in reply to"></i> 立可白</a></span>
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390290223" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午4點00">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>果然有人围事ㄛ</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-0" data-action="upvote" title="給推">
+
+<span class="updatable count" data-role="likes">0</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390290223">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390290223">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390247429"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">231423231</span>
+
+<span><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390089265" class="parent-link" data-role="parent-link"><i aria-hidden="true" class="icon-forward" title="in reply to"></i> 立可白</a></span>
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390247429" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午3點05">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>邏輯亂七八糟，大腦簡單的跟單細胞生物有何不同？幫台灣人出氣請公投撤銷李登輝的總統禮遇，買賣軍宅犯法嘛？台灣現在只講『人民公審』，六法全書墊在桌下。王如玄的軍宅問題重點是：『他自稱是正義代言人，可是卻靠著買賣房產理財。』造成這種強烈社會反差才是問題癥結點，跟『欺負台灣人』有什麼關係？如果王如玄欺負台灣人，請問林榮三是欺負什麼人？惡意變更農地為住宅用地；出售工業用地欺騙買家為住宅用地；與台南市政府賴清德勾結將關廟夜市用地一年之內地價暴漲10倍；兒子夥同手下職員，將土地分割成iphone 4大小，以詐欺方式騙取士林官邸都更案同意書，愛台灣，然後到中國大陸上海蘇州炒房賺人民幣，談這些這些台灣人都瞎了。整天炒這些白痴議題，台灣人三好加一好，誰還關心TPP？誰還討論RCEP？誰還在乎公平正義？要整天吃三民自沒人管你，但是請不要再秀下限了！！！！無知的民粹才是台灣最大的危機</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-1" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">1</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390247429">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390247429">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390183279"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">賀民進黨的洗腦政策大成功</span>
+
+<span><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390089265" class="parent-link" data-role="parent-link"><i aria-hidden="true" class="icon-forward" title="in reply to"></i> 立可白</a></span>
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390183279" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午1點50">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>王如玄買賣軍宅時期, 顏色是綠的, 當時洗腦綠蛆一直高呼萬歲!<br>後來王如玄擔任公職, 由於顏色不藍不綠, 洗腦綠蛆就假裝沒看到!<br>現在王如玄以無黨籍身份出馬選副總統, 洗腦綠蛆馬上翻臉喊殺!</p><p>所以洗腦綠蛆的標準就是<br>只要你的顏色是綠的, 買賣軍宅, 侵吞公款, 抄襲論文, 入侵官署, 毀謗污衊, 統統無罪<br>只要你顏色沾上藍的, 不管你做什麼, 統統有罪, 統統去死!</p><p>我們等著看 2016 綠色恐怖執政之下, 政府從上到下一路貪腐到底的盛況吧!</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-3" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">3</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390183279">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390183279">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"><li class="post" id="post-2390229747"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">藍綠色盲</span>
+
+<span><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390183279" class="parent-link" data-role="parent-link"><i aria-hidden="true" class="icon-forward" title="in reply to"></i> 賀民進黨的洗腦政策大成功</a></span>
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390229747" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午2點43">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>王如玄如果是民進黨的副總統候選人, 你的反應會是?</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-0" data-action="upvote" title="給推">
+
+<span class="updatable count" data-role="likes">0</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390229747">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390229747">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li></ul>
+
+</li><li class="post" id="post-2390164879"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">haha</span>
+
+<span><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390089265" class="parent-link" data-role="parent-link"><i aria-hidden="true" class="icon-forward" title="in reply to"></i> 立可白</a></span>
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390164879" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午1點30">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>表示外省人至少還有"高級的", 你立可白所屬的人種卻只有一種等級 ....</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-2" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">2</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390164879">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390164879">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390162640"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">noname</span>
+
+<span><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390089265" class="parent-link" data-role="parent-link"><i aria-hidden="true" class="icon-forward" title="in reply to"></i> 立可白</a></span>
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390162640" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午1點28">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>就是有低級空心菜, 才會有低級本省人...<br>甚麼時候了, 還在搞省籍,看不起你</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-3" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">3</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390162640">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390162640">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390099150"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">民進黨不倒 台灣不會好</span>
+
+<span><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390089265" class="parent-link" data-role="parent-link"><i aria-hidden="true" class="icon-forward" title="in reply to"></i> 立可白</a></span>
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390099150" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午12點31">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>蔡英文副院長極機密搬納稅人血汗錢給蔡英文肥貓董事長宇昌A錢弊案<br>第一次公文蘇真昌院長不同意<br>第二次乾脆繞過蘇真昌 她周末自己加班自己簽 古今中外少見</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"><li><div class="media-container media-mode-deferred media-show-buttons media-activated">
+<a class="media-button media-button-expand publisher-color publisher-border-color" href="//a.disquscdn.com/uploads/mediaembed/images/2880/7384/original.jpg" rel="nofollow" target="_blank" data-action="expand" title="">
+<i class="icon-images publisher-background-color"></i>
+顯示
+</a>
+<a class="media-button media-button-contract publisher-color publisher-border-color" href="#" target="_blank" data-action="contract">
+<i class="icon-cancel publisher-background-color"></i> 隱藏
+</a>
+<div class="media-content-loader" data-role="content-loader"></div>
+<div data-role="content-placeholder" class="media-content-placeholder" style="height: auto;"><a href="//a.disquscdn.com/uploads/mediaembed/images/2880/7384/original.jpg" target="_blank" rel="nofollow">
+<img src="//a.disquscdn.com/uploads/mediaembed/images/2880/7384/original.jpg?w=600&amp;h" alt="縮圖">
+</a></div>
+</div></li></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-5" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">5</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390099150">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390099150">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"><li class="post" id="post-2390107575"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1448940533/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">綠色豬頭</span>
+
+<span><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390099150" class="parent-link" data-role="parent-link"><i aria-hidden="true" class="icon-forward" title="in reply to"></i> 民進黨不倒 台灣不會好</a></span>
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390107575" data-role="relative-time" class="time-ago" title="2015年12月3日星期四下午12點40">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>民進黨有黨員法官搞定</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-2" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">2</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390107575">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390107575">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li></ul>
+
+</li></ul>
+
+</li><li class="post" id="post-2390068493"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/disqus_HERWi8POEs/" class="user" data-action="profile" data-username="disqus_HERWi8POEs">
+<img data-role="user-avatar" data-user="185548420" src="//a.disquscdn.com/uploads/users/18554/8420/avatar92.jpg?1449128138" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/disqus_HERWi8POEs/" data-action="profile" data-username="disqus_HERWi8POEs" data-role="username">Sandra Wang</a></span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390068493" data-role="relative-time" class="time-ago" title="2015年12月3日星期四中午12點03">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>黃昭順是王派, 支持換柱的, 跟王一起躲在不分區的小孬孬</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-11" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">11</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390068493">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390068493">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390050749"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/disqus_6CwmzGN4Xz/" class="user" data-action="profile" data-username="disqus_6CwmzGN4Xz">
+<img data-role="user-avatar" data-user="55763388" src="//a.disquscdn.com/uploads/users/5576/3388/avatar92.jpg?1398992861" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/disqus_6CwmzGN4Xz/" data-action="profile" data-username="disqus_6CwmzGN4Xz" data-role="username">萬華 陳</a></span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390050749" data-role="relative-time" class="time-ago" title="2015年12月3日星期四中午11點46">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>國民黨缺戰鬥兵團！此時竟充塞想享成避責任者…整黨似已老呼？</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-3" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">3</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390050749">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390050749">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390048833"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/disqus_6CwmzGN4Xz/" class="user" data-action="profile" data-username="disqus_6CwmzGN4Xz">
+<img data-role="user-avatar" data-user="55763388" src="//a.disquscdn.com/uploads/users/5576/3388/avatar92.jpg?1398992861" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/disqus_6CwmzGN4Xz/" data-action="profile" data-username="disqus_6CwmzGN4Xz" data-role="username">萬華 陳</a></span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390048833" data-role="relative-time" class="time-ago" title="2015年12月3日星期四中午11點44">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>老了可以退休了…</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-1" data-action="upvote" title="">
+
+<span class="updatable count" data-role="likes">1</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390048833">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390048833">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2390035087"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/lonelyisland/" class="user" data-action="profile" data-username="lonelyisland">
+<img data-role="user-avatar" data-user="171349552" src="//a.disquscdn.com/1448940533/images/noavatar92.png" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/lonelyisland/" data-action="profile" data-username="lonelyisland" data-role="username">LonelyIsland</a></span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390035087" data-role="relative-time" class="time-ago" title="2015年12月3日星期四中午11點32">一天前</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>應該的: 多行不義，衆叛親離</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-0" data-action="upvote" title="給推">
+
+<span class="updatable count" data-role="likes">0</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-1" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151203002548-260407#comment-2390035087">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2390035087">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li></ul>

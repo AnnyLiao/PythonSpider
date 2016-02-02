@@ -1,0 +1,5 @@
+朱立倫參觀木工機械 要找回技職教育
+國民黨總統參選人朱立倫今天下午參觀台中市神岡區傳產木工機械廠，第三、八選區立委參選人楊瓊瓔、江啟臣等人也陪同。業者反映，台灣木工機械被大陸擠下到全球第4名，憂全球競爭力下降。 朱立倫承諾，除改變現在工業地與建地率的容積率，更要把技職教育找回來，畢業直接產學合作，是未來重點。緊接著朱立倫趕到東勢區東聖宮進行參拜。 var channelId=1; var actArea="poll_at_story_0_v75";var actCode="v75";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1379533
+19.5
+actArea,channelId,actCode

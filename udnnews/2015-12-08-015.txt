@@ -1,0 +1,5 @@
+王如玄軍宅案 蔡英文：由社會形成意見
+蔡英文下午出席百工百業社團後援會授旗活動，會前受訪時說，軍宅是政府為了照顧軍眷尤其是弱勢者的政策，在整個過程中，希望王如玄能對社會清楚交代，並回應社會質疑，因為這牽涉到誠信問題。 蔡英文表示，至於其他王如玄講的事情，就由社會自然形成意見吧。 var channelId=1; var actArea="poll_at_story_0_v72";var actCode="v72";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1364728
+47.2
+channelId,var,社會

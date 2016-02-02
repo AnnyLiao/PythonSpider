@@ -1,0 +1,202 @@
+﻿<header>
+    <h1>打兩岸牌 馬英九呼籲：選一個支持九二共識的總統</h1>
+</header><ul id="post-list" class="post-list"><li class="post" id="post-2394535521"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar hovercard">
+<a href="https://disqus.com/by/disqus_HEiIRhwI3U/" class="user" data-action="profile" data-username="disqus_HEiIRhwI3U">
+<img data-role="user-avatar" data-user="90536117" src="//a.disquscdn.com/uploads/users/9053/6117/avatar92.jpg?1438227618" alt="顯圖">
+</a>
+</div>
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author publisher-anchor-color"><a href="https://disqus.com/by/disqus_HEiIRhwI3U/" data-action="profile" data-username="disqus_HEiIRhwI3U" data-role="username">濁溪客</a></span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151205002481-260407#comment-2394535521" data-role="relative-time" class="time-ago" title="2015年12月5日星期六晚上8點28">
+一天前
+</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>與其"破冰"成了好多小冰塊,不如"融冰"春江水暖向前行</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-0" data-action="upvote" title="給推">
+
+<span class="updatable count" data-role="likes">0</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151205002481-260407#comment-2394535521">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2394535521">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li><li class="post" id="post-2394383320"><div role="alert"></div>
+<div data-role="post-content" class="post-content">
+<ul class="post-menu dropdown" data-role="menu">
+<li class="collapse">
+<a href="#" data-action="collapse" title="收和"><span>−</span></a>
+</li>
+<li class="expand">
+<a href="#" data-action="collapse" title="展開"><span>+</span></a>
+</li>
+
+<li class="" role="menu">
+<a class="dropdown-toggle" href="#" data-action="flag" data-role="flag" title="舉報為不當發言">
+<i aria-hidden="true" class="icon icon-flag"></i>
+</a>
+</li>
+</ul>
+<div class="indicator"></div>
+
+<div class="avatar">
+<div class="user"><img src="//a.disquscdn.com/1449264270/images/noavatar92.png" class="user" alt="顯圖"></div>
+</div>
+
+<div class="post-body">
+<header>
+<span class="post-byline">
+<span class="author">lkk</span>
+
+</span>
+
+<span class="post-meta">
+<span class="bullet time-ago-bullet" aria-hidden="true">•</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20151205002481-260407#comment-2394383320" data-role="relative-time" class="time-ago" title="2015年12月5日星期六下午4點13">
+一天前
+</a>
+</span>
+
+</header>
+
+<div class="post-body-inner">
+<div class="post-message-container" data-role="message-container" style="height: auto; max-height: none;">
+<div class="publisher-anchor-color" data-role="message-content">
+<div class="post-message " data-role="message" dir="auto">
+<p>從洪秀柱起義事件中也可以看出，臺灣實際“拒 統派”也就是屬於標準“不統不獨親美派”。 二零一六年的臺灣領導人大選，進入尖銳的「 臺灣生與死的對決」局面，也是一場全新的「臺灣 合中與親美生存發展路線對決」。做有尊嚴的炎黃 子孫，還是做洋人的看門狗，只是一念之差。說白 了，這是炎黃子孫與看門狗的對決!!</p><p>　　洪被棄只因八個字，一中同表，和平協議。 老美不同意。就這樣简單，更何況洪不給老美面子，堅持拒绝去美朝拜！! <br>　　公平的說，國民黨大節有虧，對不起中國兩個字。 過去跟中共爭天下失敗本來沒什麽，但成為 外族的走狗，以反中為己任，無論如何說不過去。國民黨這麽幹是兩面不討好，自取滅亡。</p><p>過去臺灣的媒體全部操縱在獨派人物的手裏，統派在媒體擁有的力量是零。藍是獨臺、綠是臺獨，他們旗幟不同但本質一樣。藍綠互鬥搶錢，藍綠聯手阻撓統一，就是這麽回事。在他們的政治操作下，統一的輿論完全被壓制，臺灣根本沒有和平統一的任何空間與任何可能。</p><p>唐湘龍也直言 中國國民黨已經結束了。</p><p>我是中間選民，藍綠兩大黨我都投票過，不過國民黨這次拿不到我的票了，台灣有一個亟需制衡的民進黨就已經夠不幸了，哪裡還需要一個「民進黨化」的國民黨？</p><p>　　我不會含淚投票給國民黨，因為它已經扛不起制衡的責任，什麼「以大局為重、相忍為國」只是粉飾其墮落的無賴藉口；我也不會任性地、賭氣地將這一票投給綠營，因為我不想助長其驕邪的氣燄。</p><p>　　做為一個對民主政治有信心但對黨不放心的知識分子，我還是堅信權力需要制衡才不會走偏，既然國民黨已經不值得我浪費選票，這一票我會投給其他有潛力對抗綠營的統派小政黨，或許我們得等上好幾年這些小黨才能長大，但別忘了，不論是國民黨或民進黨當年都是這樣長大的。</p>
+</div>
+
+<span class="post-media"><ul data-role="post-media-list"></ul></span>
+</div>
+</div>
+<a class="see-more hidden" title="查看更多" data-action="see-more" data-tid="109">查看更多</a>
+</div>
+
+<footer>
+<menu>
+
+<li class="voting" data-role="voting">
+<a href="#" class="vote-up  count-0" data-action="upvote" title="給推">
+
+<span class="updatable count" data-role="likes">0</span>
+<span class="control"><i aria-hidden="true" class="icon icon-arrow-2"></i></span>
+</a>
+<span role="button" class="vote-down  count-0" data-action="downvote" title="給噓">
+
+<span class="control"><i aria-hidden="true" class="icon icon-arrow"></i></span>
+</span>
+</li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="reply" data-role="reply-link">
+<a href="#" data-action="reply">
+<i class="icon icon-mobile icon-reply"></i><span class="text">回覆</span></a></li>
+<li class="bullet" aria-hidden="true">•</li>
+
+
+<li class="share">
+<a class="toggle"><i class="icon icon-mobile icon-share"></i><span class="text">分享 ›</span></a>
+<ul>
+<li class="twitter"><a href="#" data-action="share:twitter">Twitter</a></li>
+<li class="facebook"><a href="#" data-action="share:facebook">Facebook</a></li>
+<li class="link"><a href="http://www.chinatimes.com/realtimenews/20151205002481-260407#comment-2394383320">連結</a></li>
+</ul>
+</li>
+
+<li class="realtime" data-role="realtime-notification:2394383320">
+<span style="display:none;" class="realtime-replies"></span>
+<a style="display:none;" href="#" class="btn btn-small"></a>
+</li>
+
+</menu>
+</footer>
+</div>
+
+<div data-role="blacklist-form"></div>
+<div class="reply-form-container" data-role="reply-form"></div>
+</div>
+
+<ul data-role="children" class="children"></ul>
+
+</li></ul>

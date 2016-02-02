@@ -1,0 +1,5 @@
+製藥界相挺 蔡英文承諾選後找得到人
+民進黨總統候選人蔡英文（左二）下午出席台灣製藥界聯合茶會，受到現場業者的熱烈相挺，蔡英文除了向現場製藥界提出相關政策外，也承諾業者，「當選後一定找得到她」。 var channelId=1; var actArea="poll_at_story_0_v75";var actCode="v75";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1379055
+53.125
+actArea,channelId,var

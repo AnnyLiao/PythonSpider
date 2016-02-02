@@ -1,0 +1,5 @@
+止血！洪秀柱要王如玄對抹黑提告
+國民黨副總統參選人王如玄深陷軍宅風波，立法院副院長洪秀柱今天說，建議王如玄該告就告。當時選舉期間，外界抹黑她，她第一時間就立刻說明，然後提告，這個社會亂象不能持續下去，名嘴沒有任何事實，憑一張嘴抹黑，說久了連自己媽媽都相信了。 洪秀柱表示，王要第一時間自己講清楚爭議，別人才能幫她說話，如果有任何不實指控，採取司法手段是有必要，可以立刻斷絕傳言。王不是政治人物，第一次選舉就碰到這種事，反應有遲緩不能怪王，一般人會比較避諱司法訴訟，但事情到今天地步不採取斷然措施，很難止血。 var channelId=1; var actArea="poll_at_story_0_v69";var actCode="v69";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1351588
+106.0
+channelId,actArea,actCode

@@ -1,0 +1,5 @@
+馬王落海救誰 朱立倫妙答：拜託馬救王
+國民黨總統參選人朱立倫今天被問若總統馬英九和立法院長王金平掉海裡要先救誰？朱立倫說，馬總統那麼會游泳，不需別人救，只要拜託馬總統救王金平，「如果不願意我再去救」。 朱立倫下午2時接受「御琳軍出招--當沈玉琳遇見朱立倫」訪問，「如果馬總統和王金平同時掉進海裡要先救誰？」 朱立倫說，這很簡單，大家都知道馬總統是游泳高手，那麼會游泳，不需別人救，他只要拜託馬總統「拜託你救王院長」，「看他（馬總統）願不願意救，如果不願意我就去救他（王金平）」。 沈玉琳大讚朱立倫回答太睿智，「你不當諧星太可惜了」；朱立倫說，準備改行。 var channelId=1; var actArea="poll_at_story_0_v70";var actCode="v70";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1356634
+138.88888888888889
+總統,朱立倫,王金平

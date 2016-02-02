@@ -1,0 +1,5 @@
+朱立倫：承擔執政問題 改進錯誤
+中國國民黨總統參選人朱立倫今天表示，他擔任主席後，提出加薪四法，廢除證所稅，修改十二年國教，他要承擔過去國民黨執政的問題，在錯誤經驗中改進，不要做新的錯誤嘗試。 朱立倫中午接受Yahoo奇摩「Yahoo Live 做伙共」專訪談到年輕人低薪問題時表示，要三管齊下解決，包括徹底檢討教育，重建技職教育與學用合一；產業要走出來，必須創新，不能停留在過去，台灣行業要走向世界；鼓勵或強迫企業將賺的錢給員工加薪，並給抵稅誘因。 朱立倫說，他今年擔任國民黨主席後提出加薪四法，已過了一部分，要等明年開始逐步實施，他也主張設「追薪學院」。 主持人詢問，有人會認為為何過去8年不做？朱立倫說，要接受批評，也學到教訓。他今年初提出加薪四法，已有一部分通過；證所稅是錯的，也把證所稅廢除；十二年國教發現有問題，現在開始修正，這些都在做修改。 朱立倫表示，畢竟今天不是總統馬英九選第3任，是朱立倫，「朱立倫不是馬英九」，他也要承擔過去國民黨執政的問題，在錯誤經驗中改進，知道問題在哪裡，不要做新的錯誤嘗試。 var channelId=1; var actArea="poll_at_story_0_v74";var actCode="v74";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1371427
+5.625
+朱立倫,問題,錯誤

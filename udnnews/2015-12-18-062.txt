@@ -1,0 +1,5 @@
+蔡英文：當選後及早恢復產業動能
+民主進步黨總統候選人蔡英文今天表示，對經濟問題、國家的基礎建設與產業研發，佈局、執行力都在大選政見規劃裡面，如果取得政權，會立即與產業界討論，讓動能及早恢復。 蔡英文今天在民進黨立委參選人林永福與前行政院長游錫(方方土)陪同下，在新北市新店區太平宮參拜，上香祈福。 蔡英文說，經濟革新最重要的因素在於政府的核心與執行力，馬政府的問題，是對於產業的變革沒有下決心，一拖再拖，讓產業沒有方向。另外，有些政策造成市場的紛擾，這也是為何必須要有明確的方向與執行的決心。如果當選，要邀請各界一起為台灣打拚。 陳永福則表示，蔡英文為穩健的改革者，希望國會要過半，百姓嚴格監督國會，也要改革國會。 var channelId=1; var actArea="poll_at_story_0_v77";var actCode="v77";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1386289
+20.22222222222222
+actCode,channelId,蔡英文

@@ -1,0 +1,2 @@
+数据标题：Xsimilarity 情感词 词典
+数据网址：http://www.datatang.com/datares/go.aspx?dataid=602022

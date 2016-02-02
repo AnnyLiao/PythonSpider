@@ -1,0 +1,5 @@
+段宜康質疑王如玄 至少經手19筆軍宅
+段宜康今天偕同民進黨立法院黨團幹事長蔡其昌、李俊俋舉行記者會，他們質疑王如玄利用閉鎖期前和閉鎖期間交易軍宅的權利，等閉鎖期過後脫手。 var channelId=1; var actArea="poll_at_story_0_v69";var actCode="v69";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1351796
+106.4
+actCode,actArea,var

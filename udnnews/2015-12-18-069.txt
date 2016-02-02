@@ -1,0 +1,5 @@
+國民黨妥協 26日副總統辯論、總統27日與1月2日
+經過昨（17）日下午會議，民進黨於晚間發出新聞稿，主張26日（六）舉辦副總統辯論會、27日（日）和1月2日（六）舉辦總統辯論會。朱立倫總統競選辦公室發言人徐巧芯表示，27日（日）和1月2日（六）願意完全配合民進黨要求之總統辯論時間，惟副總統辯論的時間有不同的意見，必須進一步協商。國民黨今（18）日發出新聞稿，同意民進黨所提電視辯論順序，12月26日先進行副總統辯論。 var channelId=1; var actArea="poll_at_story_0_v77";var actCode="v77";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1386365
+559.7777777777778
+總統,var,channelId

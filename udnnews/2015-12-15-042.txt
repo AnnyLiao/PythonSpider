@@ -1,0 +1,5 @@
+王如玄籲小英講清楚 選戰回歸政策辯論主軸
+王如玄到桃園拜票，與義民社區發展協會的老人們互動熱絡；參訪桃園市平鎮區義民廟時，媒體再詢及蔡英文炒地事件，她指出，政治人物接受社會各界檢驗，標準應該要一致。 她呼籲蔡英文應該趕快出來講清楚、說明白，讓選戰回歸政策辯論主軸才是重要。 面對記者詢問軍宅案，之後遭傳喚是否擔心影響選情？王如玄說，「完全不擔心」，之前向民眾報告，在法律上完全是沒問題，只是在道德或社會觀感上也許有不同看法，已把投資所得全數捐出，希望回歸政策辯論，才是對台灣這塊土地、人民，最好的處理模式。 談到要否到眷村走走？王如玄說，行程都是黨部安排，若有安排眷村，都會依照黨部指示處理；媒體問到是否遭立委切割？王如玄說，昨晚去新北市參加造勢，很多立委都到現場，「能努力的都會努力」。 var channelId=1; var actArea="poll_at_story_0_v75";var actCode="v75";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1379000
+67.22222222222223
+var,channelId,actCode

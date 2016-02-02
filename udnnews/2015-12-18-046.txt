@@ -1,0 +1,5 @@
+總統大選辯論敲定 將有媒體與公民提問
+2016總統選舉辯論敲定，26日下午2時先進行中國國民黨、民主進步黨與親民黨副總統候選人辯論，27日與明年1月2日下午2時進行3黨總統候選人辯論，兩場中將分別安排媒體與公民提問。 媒體提問人與方式，3黨希望要秉持公平、公正原則，祛除政治疑慮。 至於副總統候選人辯論方式，將由主辦單位提企劃案討論。 3黨與9家媒體（中央通訊社、公共電視、中國時報、聯合報、蘋果日報、自由時報、三立電視台、沃草與google）代表今天下午再磋商辯論時程後終於達成共識。 3黨出席協商代表包括國民黨文化傳播委員會主任委員林奕華、國民黨總統候選人朱立倫競選總部發言人徐巧芯、民進黨發言人阮昭雄、民進黨籍立法委員陳其邁、民進黨新聞輿情部主任黃重諺與親民黨協商代表魏志中。 var channelId=1; var actArea="poll_at_story_0_v77";var actCode="v77";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1386562
+61.714285714285715
+辯論,總統,候選人

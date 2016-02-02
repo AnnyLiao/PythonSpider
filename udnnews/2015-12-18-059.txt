@@ -1,0 +1,5 @@
+台中立委╱胡志強為蔡錦隆站台 評台美軍售與太平島
+前台中市長胡志強今天下午到台中，為立委參選人蔡錦隆站台時，接受媒體提問針對美國對台軍售，與美方反對總統馬英九登太平島的看法，他認為軍售是要拉攏台美關係，美介入馬總統登太平島則是不適合。 胡志強表示，軍售的時間點會引起各種不同的揣測，但總要有一個時間點，他覺個美國人決定軍售，大概是看到兩岸關係的和緩，他要加強跟台灣的關係，兩岸關係和緩軍售的必要性應該要降低，但美國反而利用這個機會，從TPP到兩岸軍事方面的合作和參與到軍售，都在最近這個月變得很明顯，他認為大概是國際情勢的演變，讓美國更重視台灣。 至於是否覺得被美國利用，他表示，美國人有美國人的考慮，他認為反而覺得馬總統本來要去太平島，美國竟公開反對，他覺得並不合適，這是我們國內的事情，他覺得恐怕講得太多了一點，尤其美國政府官員，竟然公開評論總統本來要到太平島的地方，「我們會給誰惹來麻煩？我們會引起誰的誤會？我們會在南海引起爭端嗎？」他認為那不是台灣的觀點，那是美國的觀點。 var channelId=1; var actArea="poll_at_story_0_v77";var actCode="v77";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1386445
+51.44444444444444
+美國,軍售,認為

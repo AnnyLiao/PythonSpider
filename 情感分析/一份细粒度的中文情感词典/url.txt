@@ -1,0 +1,2 @@
+数据标题：一份细粒度的中文情感词典
+数据网址：http://www.datatang.com/datares/go.aspx?dataid=604558

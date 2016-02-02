@@ -1,0 +1,5 @@
+王如玄黃昏市場拜票 感受兩樣情
+中國國民黨副總統參選人王如玄今天傍晚到高雄市自由黃昏市場掃街拜票，受攤商歡迎，有攤商以粽子相送祝「包中」，也有人在場舉牌嗆「欺壓勞工」。 王如玄由國民黨籍立法委員黃昭順陪同到市場，數名抗議民眾上前舉牌高呼「王如玄欺壓勞工」，王如玄不受影響，繼續走進市場拜票。 王如玄向菜市場攤商及婆婆媽媽拜票，有攤商拿熱情送她粽子祝「包中」，有攤商沒什麼反應，另有攤商抱怨「生意變那麼差，還來拜啥票」。 var channelId=1; var actArea="poll_at_story_0_v70";var actCode="v70";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1357220
+116.4
+攤商,actCode,var

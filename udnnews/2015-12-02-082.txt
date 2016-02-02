@@ -1,0 +1,5 @@
+王如玄將對段宜康提告「加重誹謗」
+民進黨立委段宜康今天說，國民黨副總統參選人王如玄與丈夫黃東焄，在2003年之前可能買了10戶軍宅。根據王如玄夫婦從1993年到現在的財產申報資料比對，1995年到2003年之間的申報，有多筆購屋投資預付款，這些預付款最後都沒有變成王如玄夫婦名下的不動產。王如玄說，今天下午3時告段宜康加重誹謗罪。 他表示，這些預付款，可能是王如玄夫婦在軍宅閉鎖期之內或之前，就已經出錢買到配售戶的權利，但還沒等到閉鎖期過後就賣出。 var channelId=1; var actArea="poll_at_story_0_v69";var actCode="v69";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1351429
+44.69230769230769
+王如玄,夫婦,channelId

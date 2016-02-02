@@ -1,0 +1,5 @@
+朱立倫：王如玄捐獲利 讓社會檢視
+朱立倫下午參加中華民國全國公教人員協會擴大幹部會議座談前，針對副手王如玄稍早召開記者會說明軍宅一事受訪表示，對於王如玄所做的投資，今天王如玄已經說得很清楚。 他說，社會現在因為王如玄要參選副總統，不管這是王如玄20年前所做的事情，大家還是用現在的標準檢視；他覺得王如玄願意用這樣的標準自我反省檢討，也是給社會一個反思，不是以法律的標準為標準，今天王如玄把獲利捐出來，這可以讓社會做一個檢視。 有媒體提問，民進黨總統參選人蔡英文原本沒有要來這場活動，但因上周末缺席與青年對談被批評，因此才決定今天要來。朱立倫表示，大家都是共同面對，不管是公務人員、學生，還是社會選民，這是一個對民眾的尊重，不只是考量選戰得與失，而是對民主的尊重。 var channelId=1; var actArea="poll_at_story_0_v72";var actCode="v72";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1364599
+126.66666666666667
+王如玄,標準,社會

@@ -1,0 +1,5 @@
+眷改宅造成外界誤解 王如玄：我的錯
+國民黨副總統參選人王如玄今天下午召開記者會說明軍宅爭議，她公布外界質疑的每一戶財產申報資料，她說，連競總主委胡志強都不清楚，他的呼籲點醒我，「這是我的錯」。 王如玄表示，她以為，我講得很清楚了，不過還是造成支持者的混淆，甚至連胡志強都不清楚，「胡志強的呼籲點醒我」，「這是我的錯」，她認為必須對外界說明清楚。 var channelId=1; var actArea="poll_at_story_0_v72";var actCode="v72";document.write('<div id="' + actArea + '" class="poll_at_story"></div>');document.write('<script src="http:\/\/func.udn.com/funcap/actIndex.jsp?actCode=' + actCode + '&channelId=' + channelId + '"> <\/script>'); piepkg(); loadTemplateJs(d1.actTemplate); eval(d1.actTemplate+'view("' + '#' + actArea + '");');
+http://udn.com/news/story/1/1363979
+247.8
+胡志強,var,actCode
